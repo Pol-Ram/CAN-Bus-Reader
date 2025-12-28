@@ -1,4 +1,4 @@
-# 🚗 CAN BUS reade with Arduino UNO for real Cars
+# 🚗 CAN BUS reader with Arduino UNO for real Cars
 
 ![Project Diagram](./Schema.png)
 
